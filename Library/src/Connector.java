@@ -3,7 +3,7 @@ import java.sql.*;
 public class Connector {
     private static final String URL = "jdbc:mysql://localhost:3306/library?characterEncoding=utf8&useSSL=false";
     private static final String USER = "root";
-    private static final String PASS = "kochamkonie";
+    private static final String PASS = "dydolino96";
     private Connection connection;
 
     public Connection connect() {
